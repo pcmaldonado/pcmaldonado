@@ -13,7 +13,7 @@
 * I'm a French-Chilean with an economics background passionated by gaining insights from data. 
 * Most of my projects include working with with Python, SQL and Tableau
 
-If you want to see my projects you can check my [portfolio](https://pcmaldonado.github.io/portfolio), or my articles on [Medium](https://medium.com/@pcmaldonado).
+If you want to see my projects you can check my [portfolio](https://pcmaldonado.github.io), or my articles on [Medium](https://medium.com/@pcmaldonado).
 
 To reach me you can visit my [LinkedIn](https://www.linkedin.com/in/pcmaldonado/?locale=en_US).
 
