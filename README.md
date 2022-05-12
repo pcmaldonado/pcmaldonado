@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 * I'm a French-Chilean with an economics background passionated by gaining insights from data. 
-* Most of my projects include working with with Python, SQL and Tableau
+* Most of my projects include working with with Python, SQL and Tableau or Power BI
 
 If you want to see my projects you can check my [portfolio](https://pcmaldonado.github.io), or my articles on [Medium](https://medium.com/@pcmaldonado).
 
